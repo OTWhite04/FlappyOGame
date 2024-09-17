@@ -1,0 +1,7 @@
+C:\OwenVisualStudioProjects\FlappyOGame\FlappyOGame\FlappyOGame\bin\Debug\FlappyOGame.exe.config
+C:\OwenVisualStudioProjects\FlappyOGame\FlappyOGame\FlappyOGame\bin\Debug\FlappyOGame.exe
+C:\OwenVisualStudioProjects\FlappyOGame\FlappyOGame\FlappyOGame\bin\Debug\FlappyOGame.pdb
+C:\OwenVisualStudioProjects\FlappyOGame\FlappyOGame\FlappyOGame\obj\Debug\FlappyOGame.csproj.AssemblyReference.cache
+C:\OwenVisualStudioProjects\FlappyOGame\FlappyOGame\FlappyOGame\obj\Debug\FlappyOGame.csproj.CoreCompileInputs.cache
+C:\OwenVisualStudioProjects\FlappyOGame\FlappyOGame\FlappyOGame\obj\Debug\FlappyOGame.exe
+C:\OwenVisualStudioProjects\FlappyOGame\FlappyOGame\FlappyOGame\obj\Debug\FlappyOGame.pdb
