@@ -41,7 +41,8 @@ namespace FlappyOGame
         int LastFrameSpacePressed = 0;
         int FrameCount = 0;
         int FlappyPositionY;
-
+        int FlappyPositionX;
+       
         public void RunGame()
         {
             Console.WriteLine("Game Running");
@@ -57,7 +58,7 @@ namespace FlappyOGame
                 {
                     FlappyPositionY = FlappyPositionY - 1;                
                 }
-                System.Threading.Thread.Sleep(50);
+                System.Threading.Thread.Sleep(100);
                 FrameCount = FrameCount + 1;
 
             }
