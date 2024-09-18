@@ -41,14 +41,16 @@ namespace FlappyOGame
         int LastFrameSpacePressed = 0;
         int FrameCount = 0;
         int FlappyPositionY;
-        int FlappyPositionX;
+       public  int FlappyPositionX;
        
         public void RunGame()
         {
-            Console.WriteLine("Game Running");
+            Console.WriteLine("O");
             //Game loop
             while (GameOver == false)
             {
+
+
                 HandleInput();
                 if(FrameCount - LastFrameSpacePressed <2)
                 {
@@ -61,12 +63,36 @@ namespace FlappyOGame
                 System.Threading.Thread.Sleep(100);
                 FrameCount = FrameCount + 1;
 
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             }
 
 
 
 
         }
+        public class Pipe
+        {
+            int PipePostX;
+
+
+            PipeGapStart();
+
+            PipeGapEnd();
+
+
+        }
+
         private void HandleInput()
         {
             if (Console.KeyAvailable)
@@ -81,13 +107,12 @@ namespace FlappyOGame
 
         }
     
-    
-    
+ 
     
     
     }
 
-
+   
 
 
 
